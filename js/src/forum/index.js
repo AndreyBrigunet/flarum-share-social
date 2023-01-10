@@ -4,7 +4,7 @@ import DiscussionPage from 'flarum/forum/components/DiscussionPage';
 import Button from 'flarum/common/components/Button';
 import Model from 'flarum/common/Model';
 import Discussion from 'flarum/common/models/Discussion';
-import BlogItemSidebar from 'flarum/forum/components/BlogItemSidebar/BlogItemSidebar';
+import BlogItemSidebar from 'flarum/common/components/BlogItemSidebar/BlogItemSidebar';
 
 import ShareModal from './components/ShareModal';
 
