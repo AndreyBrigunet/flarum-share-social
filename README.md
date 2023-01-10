@@ -14,13 +14,13 @@ A [Flarum](http://flarum.org) extension. Add a button to share discussions throu
 ### Installation
 
 ```sh
-composer require fof/share-social
+composer require andreybrigunet/flarum-share-social
 ```
 
 ### Updating
 
 ```sh
-composer update fof/share-social
+composer update andreybrigunet/flarum-share-social
 ```
 
 ### Links
